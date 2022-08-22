@@ -1,0 +1,21 @@
+{
+  "name": "defisushi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@openzeppelin/contracts": "^4.7.3",
+    "chai": "*",
+    "hardhat": "^2.10.2",
+    "mocha": "*"
+  },
+  "dependencies": {
+    "chai": "^4.3.6"
+  }
+}
